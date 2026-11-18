@@ -1,57 +1,77 @@
-# Mohamed Shaaban 
+<h1 align="center">Hi, I'm Mohamed Shaaban 👋</h1>
 
-## 🚀 About Me
-I’m a software developer focused on building practical, high-quality solutions and continuously improving my craft.
+<p align="center">
+  <strong>C# Developer | Windows Forms & Desktop Applications</strong>
+</p>
 
-- 💻 Passionate about software development
-- 📚 Always learning and exploring new technologies
-- 🛠️ Interested in turning ideas into useful projects
-- 🤝 Open to collaboration and knowledge sharing
-
-## 🧰 Tech Stack
-> Add your strongest languages and tools here.
-
-```text
-Languages:       Your languages
-Frameworks:      Your frameworks
-Tools:           Your tools
-Databases:       Your databases
-Cloud & DevOps:  Your cloud and DevOps tools
-```
-
-## 🌟 Featured Projects
-### 🔹 Project One
-A short description of what this project does and why it matters.
-
-**Technologies:** `Technology 1` · `Technology 2` · `Technology 3`
-
-### 🔹 Project Two
-A short description of what this project does and why it matters.
-
-**Technologies:** `Technology 1` · `Technology 2` · `Technology 3`
-
-### 🔹 Project Three
-A short description of what this project does and why it matters.
-
-**Technologies:** `Technology 1` · `Technology 2` · `Technology 3`
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-shaaban-cs&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-shaaban-cs&layout=compact&theme=tokyonight)
-
-## 🤝 Let’s Connect
-- 🌐 Portfolio: **[My Github](https://github.com/mohamed-shaaban-cs)**
-- 💼 LinkedIn: **[Mohamed Shaaban](https://www.linkedin.com/in/mohamed-shaaban-cs/)**
-- 📧 Email: **ss24214859@gmail.com**
+<p align="center">
+  I build practical desktop applications with C#, .NET, and SQL Server. I’m especially interested in clean layered architecture, reliable data access, and creating useful software for everyday workflows.
+</p>
 
 ---
 
-To personalize this README, please share:
+## 🧑‍💻 About Me
 
-1. Your **profession or current role**
-2. Your **top 5–8 skills**
-3. **2–3 favorite or most important projects**, including their descriptions and links
-4. Your **portfolio**, **LinkedIn**, **email**, and any other social links
-5. A short sentence or phrase that describes you
-6. Optional: a profile photo, preferred theme, achievements, or certifications
+- 🖥️ Focused on C# and Windows Forms desktop development
+- 🏗️ Building applications with 3-Tier Architecture
+- 🗄️ Working with SQL Server and ADO.NET
+- 📚 Continuously learning and improving my software development skills
+- 🤝 Open to collaboration and sharing ideas
+
+## 🧰 Tech Stack
+
+**Languages & Frameworks**  
+`C#` · `.NET Framework` · `Windows Forms`
+
+**Database & Data Access**  
+`SQL Server` · `ADO.NET`
+
+**Tools**  
+`Visual Studio` · `Git` · `GitHub`
+
+## 🌟 Featured Projects
+
+### [My-DVLD](https://github.com/mohamed-shaaban-cs/My-DVLD)
+A C# desktop application project focused on managing workflows for a driver and vehicle licensing department.
+
+**Technologies:** `C#` · `Windows Forms` · `SQL Server`
+
+### [Employees Management System](https://github.com/mohamed-shaaban-cs/Employees-Management-System)
+A desktop application for organizing and managing employee information.
+
+**Technologies:** `C#` · `Windows Forms` · `SQL Server`
+
+### [Contacts Management System](https://github.com/mohamed-shaaban-cs/ContactsMangement)
+A Windows Forms application for creating, updating, searching, and managing contact records. The project follows a 3-Tier Architecture with separate presentation, business logic, and data access layers.
+
+**Technologies:** `C#` · `.NET Framework` · `Windows Forms` · `SQL Server` · `ADO.NET`
+
+### [PIZZA Ordering System](https://github.com/mohamed-shaaban-cs/PIZZA)
+A Windows Forms desktop application for browsing pizza options and managing an order through confirmation.
+
+**Technologies:** `C#` · `.NET Framework` · `Windows Forms`
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mohamed-shaaban-cs&show_icons=true&theme=tokyonight"
+    alt="Mohamed's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-shaaban-cs&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: [mohamed-shaaban-cs](https://www.linkedin.com/in/mohamed-shaaban-cs/)
+- 🌐 Portfolio: [Coming soon](#)
+- 🐙 GitHub: [mohamed-shaaban-cs](https://github.com/mohamed-shaaban-cs)
+
+---
+
+<p align="center">
+  <i>Building useful software, one project at a time.</i>
+</p>
