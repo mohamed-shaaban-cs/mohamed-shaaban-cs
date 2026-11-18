@@ -55,11 +55,11 @@ A Windows Forms desktop application for browsing pizza options and managing an o
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mohamed-shaaban-cs&show_icons=true&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api?username=mohamed-shaaban-cs&show_icons=true&theme=tokyonight"
     alt="Mohamed's GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-shaaban-cs&layout=compact&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohamed-shaaban-cs&layout=compact&theme=tokyonight"
     alt="Top Languages"
   />
 </p>
